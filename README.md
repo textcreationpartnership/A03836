@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-DE VNIONE INSVLAE BRITANNICAE Tractatus. 1.Per DAVIDEM HVMIVM Theagrium.LONDINI Excudebat Georgius E
+
 1. Illustrissimo, Potentissimo Regi, IACOBO BRITANNIARVM, Franciae, & Hiberniae, Regi, fidei vere christianae propugnatori, propagatori; omnimodam faelicitatem.
 
 #####Body#####
